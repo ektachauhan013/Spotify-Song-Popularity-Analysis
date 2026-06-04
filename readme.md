@@ -15,8 +15,7 @@ This project dives into a dataset of **114,000 Spotify tracks** to explore what 
   energy, loudness, speechiness, acousticness,
   instrumentalness, liveness, valence, tempo,
   key, mode, explicit, artists, track_genre
-- Description
-  A comprehensive collection of Spotify tracks spanning multiple genres, capturing both audio features and metadata to help analyze what drives a song's popularity on the platform.
+- **Description:** A comprehensive collection of Spotify tracks spanning multiple genres, capturing both audio features and metadata to help analyze what drives a song's popularity on the platform.
 
 ## Data Cleaning
 - Removed missing values
